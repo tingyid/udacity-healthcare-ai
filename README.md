@@ -1,6 +1,6 @@
 # Udacity - AI for Healthcare Nanodegree Program
 
-<a href="https://confirm.udacity.com/XZUYPEH9">![ai4healthcare](Sources/certificate.pngcertificate.png)</a>
+<a href="https://confirm.udacity.com/XZUYPEH9">![ai4healthcare](Sources/certificate.png)</a>
 
 In this nano-degree, I build, evaluate, and integrate predictive models that have the power to transform patient outcomes. I worked on
 
